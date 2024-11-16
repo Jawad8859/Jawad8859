@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jawad8859
 - 👀 I’m interested in learning programming languages.
 - 🌱 I’m currently learning python web mastery.
-- 💞️ I’m looking to collaborate on microsoft.
+- 💞️ I’m looking to collaborate with microsoft.
 - 📫 How to reach me itsjawad8859@gmsail.com
 
 <!---
